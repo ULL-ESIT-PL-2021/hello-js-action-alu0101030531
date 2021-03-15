@@ -17,6 +17,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/hello-js-action-alu0101030531@v1
+uses: ULL-ESIT-PL-2021/hello-js-action-alu0101030531@v1
 with:
   who-to-greet: 'Mona the Octocat'
